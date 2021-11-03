@@ -3,19 +3,22 @@
 ## 🚀 Vamos nessa!
 
 Este é meu projeto front-end desenvolvendo uma calculadora e utilizando testes automatizados E2E.
-Estou utilizando o padrão Page Objects.
+Estou utilizando o padrão Page Objects e para utilizar em sua máquina, vamos aos preparativos?
 
 ### 📋 Pré-requisitos
 
-- Utilize seu navegador favorito
-- Node.js 
-- NPM 
+- Utilize seu navegador favorito para utilizar a calculadora
+- Baixe o Node.js -> Testes Automatizados
+- Tenha o NPM -> Testes Automatizados
 
 ### 🔧 Abrindo a calculadora
 
-Após baixar o projeto em sua máquina, basta abrir o arquivo calculadora.html e solucionarmos os mistérios do universo! 
+Para baixar o projeto aqui do git, altere para a branch calculadora e clique em code.
+Desta forma, terá a opçao de baixar como zip ou clonar para sua máquina.
 
-## ⚙️ Executando os testes
+Agora localize e abra o arquivo calculadora.html e vamos calcular juntos os mistérios do universo! 
+
+## ⚙️ Executando os testes automatizados
 
 Os testes E2E, estão sendo realizados com Cypress.io validando as 4 operações fundamentais.
 

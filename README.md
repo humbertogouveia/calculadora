@@ -17,7 +17,8 @@ Após baixar o projeto em sua máquina, basta abrir o arquivo calculadora.html e
 
 ## ⚙️ Executando os testes
 
-Os testes E2E, estão sendo realizados com Cypress.io
+Os testes E2E, estão sendo realizados com Cypress.io validando as 4 operações fundamentais.
+
 Para instalar em seu projeto: 
 1. Navegue no terminal até a pasta calculadora.
 2. Em seguida, execute o comando npm i, para instalar as dependências que utilizei no projeto.

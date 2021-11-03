@@ -16,7 +16,7 @@ Estou utilizando o padrão Page Objects e para utilizar em sua máquina, vamos a
 Para baixar o projeto aqui do git, altere para a branch calculadora e clique em code.
 Desta forma, terá a opçao de baixar como zip ou clonar para sua máquina.
 
-Agora localize e abra o arquivo calculadora.html e vamos calcular juntos os mistérios do universo! 
+Agora localize a pasta src, abra o arquivo calculadora.html e vamos calcular juntos os mistérios do universo! 
 
 ## ⚙️ Executando os testes automatizados
 
